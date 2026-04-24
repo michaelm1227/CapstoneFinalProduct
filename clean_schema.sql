@@ -1,5 +1,5 @@
 -- ============================================
--- Full schema for mcglen97 — VisaJob Connect
+-- Full schema for mcglen97 — Careerify
 -- Run this to reset and rebuild all tables
 -- ============================================
 USE mcglen97;
